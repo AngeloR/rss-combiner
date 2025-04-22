@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Xangelo's Bluesky Posts</title>
+        <link>undefined</link>
+        <description>Xangelo's Bluesky Posts</description>
+        <lastBuildDate>Wed, 09 Apr 2025 17:56:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>I wrote this stuff, so just like.. don't steal it or anything.</copyright>
+        <item>
+            <title><![CDATA[😗
+
+simonwillison.net/2025/Apr/9/m...]]></title>
+            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g</link>
+            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g</guid>
+            <pubDate>Wed, 09 Apr 2025 17:56:51 GMT</pubDate>
+            <content:encoded><![CDATA[<article id="post-3lmfkssnkv22g" class="post-entry repost">
+        <header class="post-header repost">
+          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
+            <img src="undefined" alt="xangelo's avatar" class="poster-avatar" />
+            <div class="poster-name">
+              <strong>xangelo</strong>
+              <span class="poster-handle">@xangelo.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>😗
+
+simonwillison.net/2025/Apr/9/m...</p>
+        </div>
+      
+        
+        <a href="https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/" class="post-embed" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ujospssfohkwtnocit43op2r/bafkreiakqri65dnfgx3vdaajkt3kym363ww6ig5et7m4zrakfwjv23vvcq@jpeg" alt="Model Context Protocol has prompt injection security problems" class="embed-thumb" />
+            <figcaption>
+              <h4>Model Context Protocol has prompt injection security problems</h4>
+              <p>As more people start hacking around with implementations of MCP (the Model Context Protocol, a new standard for making tools available to LLM-powered systems) the security implications of tools built ...</p>
+            </figcaption>
+          </figure>
+        </a>
+      
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+        </footer>
+      </article>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Turns out.. anything is a shell in GitHub Actions? In one example they execute `tcc` :/ Is this some kind of jail-break exploit waiting to happen? yossarian.net/til/post/any...]]></title>
+            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v</link>
+            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v</guid>
+            <pubDate>Wed, 09 Apr 2025 18:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[<article id="post-3lmfo2k2m4s2v" class="post-entry">
+        <header class="post-header ">
+          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
+            <img src="undefined" alt="xangelo's avatar" class="poster-avatar" />
+            <div class="poster-name">
+              <strong>xangelo</strong>
+              <span class="poster-handle">@xangelo.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>Turns out.. anything is a shell in GitHub Actions? In one example they execute `tcc` :/ Is this some kind of jail-break exploit waiting to happen? yossarian.net/til/post/any...</p>
+        </div>
+      
+        
+        <a href="https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/" class="post-embed" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="undefined" alt="TIL: Any program can be a GitHub Actions shell" class="embed-thumb" />
+            <figcaption>
+              <h4>TIL: Any program can be a GitHub Actions shell</h4>
+              <p></p>
+            </figcaption>
+          </figure>
+        </a>
+      
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+        </footer>
+      </article>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[I'm seeing lots of posts about McLaren's cautious strategy... I wonder if this is as good as it gets for them and they just need to nail the constructors...]]></title>
+            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m</link>
+            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m</guid>
+            <pubDate>Mon, 07 Apr 2025 23:32:50 GMT</pubDate>
+            <content:encoded><![CDATA[<article id="post-3lmb4nubrx22m" class="post-entry">
+        <header class="post-header ">
+          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
+            <img src="undefined" alt="xangelo's avatar" class="poster-avatar" />
+            <div class="poster-name">
+              <strong>xangelo</strong>
+              <span class="poster-handle">@xangelo.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>I&#039;m seeing lots of posts about McLaren&#039;s cautious strategy... I wonder if this is as good as it gets for them and they just need to nail the constructors...</p>
+        </div>
+      
+        
+        <a href="https://www.planetf1.com/features/japanese-grand-prix-2025-conclusions" class="post-embed" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yfvkp35notfz4tso2cpdnzni/bafkreifeom2awwbaynkyzd54sg3swbndcivtmeu6ynmu32uzttyqeirx7m@jpeg" alt="Max Verstappen goes on rampage with McLaren strategy under question" class="embed-thumb" />
+            <figcaption>
+              <h4>Max Verstappen goes on rampage with McLaren strategy under question</h4>
+              <p>Red Bull driver Max Verstappen won the F1 2025 Japanese Grand Prix with Lando Norris second and McLaren team-mate Oscar Piastri third.</p>
+            </figcaption>
+          </figure>
+        </a>
+      
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+        </footer>
+      </article>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[There something very satisfying about catching @hankgreen.bsky.social throwing shade]]></title>
+            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m</link>
+            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m</guid>
+            <pubDate>Mon, 07 Apr 2025 23:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<article id="post-3lmb4eov7es2m" class="post-entry">
+        <header class="post-header ">
+          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
+            <img src="undefined" alt="xangelo's avatar" class="poster-avatar" />
+            <div class="poster-name">
+              <strong>xangelo</strong>
+              <span class="poster-handle">@xangelo.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>There something very satisfying about catching @hankgreen.bsky.social throwing shade</p>
+        </div>
+      
+        
+        <a href="undefined" class="post-embed" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="undefined" alt="undefined" class="embed-thumb" />
+            <figcaption>
+              <h4>undefined</h4>
+              <p>undefined</p>
+            </figcaption>
+          </figure>
+        </a>
+      
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+        </footer>
+      </article>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[An interesting study by WOWA.ca around monetary control in Canada youtu.be/bR0kYvkgRps?...  #canada #finance]]></title>
+            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u</link>
+            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u</guid>
+            <pubDate>Sun, 06 Apr 2025 13:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[<article id="post-3lm5l6aoick2u" class="post-entry">
+        <header class="post-header ">
+          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
+            <img src="undefined" alt="xangelo's avatar" class="poster-avatar" />
+            <div class="poster-name">
+              <strong>xangelo</strong>
+              <span class="poster-handle">@xangelo.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>An interesting study by WOWA.ca around monetary control in Canada youtu.be/bR0kYvkgRps?...  #canada #finance</p>
+        </div>
+      
+        
+        <a href="https://WOWA.ca" class="post-embed" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lpu5jrmdjg3s3sakmds6vugm/bafkreifgi5ujshnhpzhlmgzwbeact73v3g2fburzgh6cmr3dc4nvggg6wy@jpeg" alt="Canada’s Largest Personal Finance Encyclopedia | WOWA.ca" class="embed-thumb" />
+            <figcaption>
+              <h4>Canada’s Largest Personal Finance Encyclopedia | WOWA.ca</h4>
+              <p>Make better financial decisions by using WOWA’s calculators and guides. On Wowa.ca you can find all the needed information about mortgage, real estate, loans, banking, taxes, savings, investments and ...</p>
+            </figcaption>
+          </figure>
+        </a>
+      
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+        </footer>
+      </article>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Anyone who’s had to do supply chains time and motion studies 🙋🏻‍♀️can tell you that having a fractured queue line slows down the aggregate overall time for waiting. This is all kinds of stupid. #onpoli]]></title>
+            <link>https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s</link>
+            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s</guid>
+            <pubDate>Thu, 02 Nov 2023 11:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[<article id="post-3kd7aeukgkd2s" class="post-entry repost">
+        <header class="post-header repost">
+          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
+            <img src="undefined" alt="xangelo's avatar" class="poster-avatar" />
+            <div class="poster-name">
+              <strong>xangelo</strong>
+              <span class="poster-handle">@xangelo.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>Anyone who’s had to do supply chains time and motion studies 🙋🏻‍♀️can tell you that having a fractured queue line slows down the aggregate overall time for waiting. This is all kinds of stupid. #onpoli</p>
+        </div>
+      
+        
+        <a href="https://www.cp24.com/news/expansion-of-private-clinics-likely-to-increase-wait-times-in-ontario-report-suggests-1.6627850" class="post-embed" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ebnpvh2qn74h56bqgsus4fur/bafkreibhitbdky4ijcr5f2rqawh5uttdtozk4jnrte74f5grhpik6rp2fy@jpeg" alt="Expansion of private clinics likely to increase wait times in Ontario, report suggests" class="embed-thumb" />
+            <figcaption>
+              <h4>Expansion of private clinics likely to increase wait times in Ontario, report suggests</h4>
+              <p>Ontario’s plan to allow more for-profit clinics to conduct surgeries and diagnostic procedures is likely to increase wait times rather than reduce them, a new report suggests.</p>
+            </figcaption>
+          </figure>
+        </a>
+      
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+        </footer>
+      </article>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[In news that surprises no one - the push for private clinics is having a detrimental effect on public health care]]></title>
+            <link>https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k</link>
+            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k</guid>
+            <pubDate>Thu, 02 Nov 2023 23:55:01 GMT</pubDate>
+            <content:encoded><![CDATA[<article id="post-3kdakisyaft2k" class="post-entry">
+        <header class="post-header ">
+          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
+            <img src="undefined" alt="xangelo's avatar" class="poster-avatar" />
+            <div class="poster-name">
+              <strong>xangelo</strong>
+              <span class="poster-handle">@xangelo.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>In news that surprises no one - the push for private clinics is having a detrimental effect on public health care</p>
+        </div>
+      
+        
+        <a href="https://bit.ly/3sqRgtU" class="post-embed" target="_blank" rel="noopener noreferrer">
+          <figure>
+            <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6sqrw2ahat2corztm5ziwfil/bafkreifqvwz46uaq63jsgojho7lyu32dj7ivdua3sqzhlslxnpwq5c4x3e@jpeg" alt="Expansion of private clinics likely to increase wait times in Ontario, report suggests" class="embed-thumb" />
+            <figcaption>
+              <h4>Expansion of private clinics likely to increase wait times in Ontario, report suggests</h4>
+              <p>Ontario’s plan to allow more for-profit clinics to conduct surgeries and diagnostic procedures is likely to increase wait times rather than reduce them, a new report suggests.</p>
+            </figcaption>
+          </figure>
+        </a>
+      
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+        </footer>
+      </article>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
