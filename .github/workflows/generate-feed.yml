@@ -31,8 +31,14 @@ jobs:
           BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
         run: pnpm start
 
+        # if there was nothing to commit, that is not an error
       - name: Commit Changes
         run: |
           git config --global user.email "me@xangelo.ca"
           git config --global user.name "angelor"
-          git commit -am "Update feed"
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -am "Update feed"
+            git push
+          else
+            echo "No changes to commit"
+          fi
