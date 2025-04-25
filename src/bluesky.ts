@@ -174,6 +174,7 @@ function generateFeed(posts: PostData[]) {
             link: post.originalLink,
             content: renderPostHTML(post),
             date: post.pubDate,
+            published: post.pubDate,
             author: [{
                 name: post.originalPoster.displayName,
                 link: post.originalPoster.href,
