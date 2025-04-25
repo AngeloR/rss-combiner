@@ -26,6 +26,9 @@ jobs:
       - run: pnpm install
 
       - name: Generate Feed
+        env:
+          BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+          BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
         run: pnpm start
 
       - name: Commit Changes
