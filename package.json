@@ -12,7 +12,6 @@
   },
   "devDependencies": {
     "@types/node": "^22.14.1",
-    "express": "^5.1.0",
     "http-server": "^14.1.1",
     "nodemon": "^3.1.9",
     "prettier": "^3.5.3",
