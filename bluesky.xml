@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Xangelo's Bluesky Posts</title>
-        <link>undefined</link>
-        <description>Xangelo's Bluesky Posts</description>
-        <lastBuildDate>Wed, 09 Apr 2025 17:56:51 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>I wrote this stuff, so just like.. don't steal it or anything.</copyright>
-        <item>
-            <title><![CDATA[😗
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bsky.social/profile/undefined</id>
+    <title>Xangelo's Bluesky Posts</title>
+    <updated>2025-04-09T17:56:51.966Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <subtitle>Xangelo's Bluesky Posts</subtitle>
+    <rights>I wrote this stuff, so just like.. don't steal it or anything.</rights>
+    <entry>
+        <title type="html"><![CDATA[😗
 
 simonwillison.net/2025/Apr/9/m...]]></title>
-            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g</link>
-            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g</guid>
-            <pubDate>Wed, 09 Apr 2025 17:56:51 GMT</pubDate>
-            <content:encoded><![CDATA[<article id="post-3lmfkssnkv22g" class="post-entry repost">
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g"/>
+        <updated>2025-04-09T17:56:51.966Z</updated>
+        <content type="html"><![CDATA[<article id="post-3lmfkssnkv22g" class="post-entry repost">
         <header class="post-header repost">
           <a href="https://bsky.social/profile/zkat.tech" class="poster-info">
             <div class="poster-name">
@@ -48,14 +46,23 @@ simonwillison.net/2025/Apr/9/m...</p>
         <footer class="post-footer">
           <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
-      </article>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Turns out.. anything is a shell in GitHub Actions? In one example they execute `tcc` :/ Is this some kind of jail-break exploit waiting to happen? yossarian.net/til/post/any...]]></title>
-            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v</link>
-            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v</guid>
-            <pubDate>Wed, 09 Apr 2025 18:54:50 GMT</pubDate>
-            <content:encoded><![CDATA[<article id="post-3lmfo2k2m4s2v" class="post-entry">
+      </article>]]></content>
+        <author>
+            <name>xangelo</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <contributor>
+            <name>Kat Marchán</name>
+            <uri>https://bsky.social/profile/zkat.tech</uri>
+        </contributor>
+        <published>2025-04-09T17:56:51.966Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turns out.. anything is a shell in GitHub Actions? In one example they execute `tcc` :/ Is this some kind of jail-break exploit waiting to happen? yossarian.net/til/post/any...]]></title>
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v"/>
+        <updated>2025-04-09T18:54:50.765Z</updated>
+        <content type="html"><![CDATA[<article id="post-3lmfo2k2m4s2v" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
             <div class="poster-name">
@@ -86,14 +93,19 @@ simonwillison.net/2025/Apr/9/m...</p>
         <footer class="post-footer">
           <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
-      </article>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[I'm seeing lots of posts about McLaren's cautious strategy... I wonder if this is as good as it gets for them and they just need to nail the constructors...]]></title>
-            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m</link>
-            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m</guid>
-            <pubDate>Mon, 07 Apr 2025 23:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[<article id="post-3lmb4nubrx22m" class="post-entry">
+      </article>]]></content>
+        <author>
+            <name>xangelo</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <published>2025-04-09T18:54:50.765Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm seeing lots of posts about McLaren's cautious strategy... I wonder if this is as good as it gets for them and they just need to nail the constructors...]]></title>
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m"/>
+        <updated>2025-04-07T23:32:50.390Z</updated>
+        <content type="html"><![CDATA[<article id="post-3lmb4nubrx22m" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
             <div class="poster-name">
@@ -124,14 +136,19 @@ simonwillison.net/2025/Apr/9/m...</p>
         <footer class="post-footer">
           <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
-      </article>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[There something very satisfying about catching @hankgreen.bsky.social throwing shade]]></title>
-            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m</link>
-            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m</guid>
-            <pubDate>Mon, 07 Apr 2025 23:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[<article id="post-3lmb4eov7es2m" class="post-entry">
+      </article>]]></content>
+        <author>
+            <name>xangelo</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <published>2025-04-07T23:32:50.390Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There something very satisfying about catching @hankgreen.bsky.social throwing shade]]></title>
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m"/>
+        <updated>2025-04-07T23:27:44.782Z</updated>
+        <content type="html"><![CDATA[<article id="post-3lmb4eov7es2m" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
             <div class="poster-name">
@@ -160,14 +177,19 @@ simonwillison.net/2025/Apr/9/m...</p>
         <footer class="post-footer">
           <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
-      </article>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[An interesting study by WOWA.ca around monetary control in Canada youtu.be/bR0kYvkgRps?...  #canada #finance]]></title>
-            <link>https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u</link>
-            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u</guid>
-            <pubDate>Sun, 06 Apr 2025 13:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[<article id="post-3lm5l6aoick2u" class="post-entry">
+      </article>]]></content>
+        <author>
+            <name>xangelo</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <published>2025-04-07T23:27:44.782Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An interesting study by WOWA.ca around monetary control in Canada youtu.be/bR0kYvkgRps?...  #canada #finance]]></title>
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u"/>
+        <updated>2025-04-06T13:41:56.374Z</updated>
+        <content type="html"><![CDATA[<article id="post-3lm5l6aoick2u" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
             <div class="poster-name">
@@ -198,14 +220,19 @@ simonwillison.net/2025/Apr/9/m...</p>
         <footer class="post-footer">
           <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
-      </article>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Anyone who’s had to do supply chains time and motion studies 🙋🏻‍♀️can tell you that having a fractured queue line slows down the aggregate overall time for waiting. This is all kinds of stupid. #onpoli]]></title>
-            <link>https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s</link>
-            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s</guid>
-            <pubDate>Thu, 02 Nov 2023 11:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[<article id="post-3kd7aeukgkd2s" class="post-entry repost">
+      </article>]]></content>
+        <author>
+            <name>xangelo</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <published>2025-04-06T13:41:56.374Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone who’s had to do supply chains time and motion studies 🙋🏻‍♀️can tell you that having a fractured queue line slows down the aggregate overall time for waiting. This is all kinds of stupid. #onpoli]]></title>
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s"/>
+        <updated>2023-11-02T11:21:09.229Z</updated>
+        <content type="html"><![CDATA[<article id="post-3kd7aeukgkd2s" class="post-entry repost">
         <header class="post-header repost">
           <a href="https://bsky.social/profile/brainchain.ca" class="poster-info">
             <div class="poster-name">
@@ -236,14 +263,23 @@ simonwillison.net/2025/Apr/9/m...</p>
         <footer class="post-footer">
           <a href="https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
-      </article>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[In news that surprises no one - the push for private clinics is having a detrimental effect on public health care]]></title>
-            <link>https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k</link>
-            <guid>https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k</guid>
-            <pubDate>Thu, 02 Nov 2023 23:55:01 GMT</pubDate>
-            <content:encoded><![CDATA[<article id="post-3kdakisyaft2k" class="post-entry">
+      </article>]]></content>
+        <author>
+            <name>xangelo</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <contributor>
+            <name>Kate Armstrong</name>
+            <uri>https://bsky.social/profile/brainchain.ca</uri>
+        </contributor>
+        <published>2023-11-02T11:21:09.229Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In news that surprises no one - the push for private clinics is having a detrimental effect on public health care]]></title>
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k"/>
+        <updated>2023-11-02T23:55:01.556Z</updated>
+        <content type="html"><![CDATA[<article id="post-3kdakisyaft2k" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
             <div class="poster-name">
@@ -274,7 +310,11 @@ simonwillison.net/2025/Apr/9/m...</p>
         <footer class="post-footer">
           <a href="https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
-      </article>]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+      </article>]]></content>
+        <author>
+            <name>xangelo</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <published>2023-11-02T23:55:01.556Z</published>
+    </entry>
+</feed>
