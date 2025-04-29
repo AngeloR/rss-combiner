@@ -4,10 +4,16 @@
   "description": "Build an RSS feed from my bluesky feed",
   "private": true,
   "scripts": {
-    "start": "ts-node src/bluesky.ts",
-    "dev": "nodemon src/bluesky.ts"
+    "clean": "rm -rf *.xml",
+    "start": "pnpm clean && pnpm bluesky && pnpm combine",
+    "bluesky": "pnpm ts-node src/bluesky.ts",
+    "combine": "pnpm ts-node src/combiner.ts",
+    "serve": "pnpm http-server --cors ."
   },
   "devDependencies": {
+    "@types/node": "^22.14.1",
+    "express": "^5.1.0",
+    "http-server": "^14.1.1",
     "nodemon": "^3.1.9",
     "prettier": "^3.5.3",
     "typescript": "5.8.2"
@@ -17,9 +23,10 @@
   },
   "dependencies": {
     "@atproto/api": "^0.15.3",
-    "@types/node": "^22.14.1",
     "dotenv": "^16.5.0",
     "feed": "^4.2.2",
+    "rss-parser": "^3.13.0",
+    "toml": "^3.0.0",
     "ts-node": "^10.9.2"
   },
   "volta": {

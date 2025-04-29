@@ -149,13 +149,9 @@ async function main() {
     // ok now that we have that list of posts, lets iterate over them and figure out which 
     // ones are new and which ones we've handled before
 
-    console.log(parsedPosts);
-
     const feed = generateFeed(parsedPosts);
 
-    await fs.writeFile(path.join(__dirname, '..', 'feed.rss'), feed);
-
-    console.log(feed);
+    await fs.writeFile(path.join(__dirname, '..', 'bluesky.xml'), feed);
 }
 
 function generateFeed(posts: PostData[]) {
@@ -199,17 +195,32 @@ function escapeHTML(str: string): string {
         .replace(/'/g, "&#039;");
 }
 
+function renderImage(image: any) {
+    const title = image.title || image.alt;
+    const description = image.description || '';
+    return `
+        <figure>
+        ${image.fullsize ? `<img src="${image.fullsize}" alt="${image.title}" class="embed" />` : ''}
+
+        <figcaption>
+            ${title ? `<h4>${title}</h4>` : ''}
+            ${description ? `<p>${description}</p>` : ''}
+        </figcaption>
+        </figure>
+    `.trim();
+}
+
 function renderPostHTML(post: PostData): string {
-    const { content, embed, postId, originalPoster, repost, originalLink } = post;
+    const { content, embed, postId, originalPoster, repost, originalLink, quotedPoster } = post;
+    const url = new URL(originalLink);
 
     return `
       <article id="post-${postId}" class="post-entry${repost ? ' repost' : ''}">
         <header class="post-header ${repost ? 'repost' : ''}">
-          <a href="${originalPoster.href}" class="poster-info">
-            <img src="${originalPoster.avatar}" alt="${originalPoster.displayName}'s avatar" class="poster-avatar" />
+          <a href="${quotedPoster ? quotedPoster.href : originalPoster.href}" class="poster-info">
             <div class="poster-name">
-              <strong>${originalPoster.displayName}</strong>
-              <span class="poster-handle">@${originalPoster.handle}</span>
+              <strong class="poster-display-name">${quotedPoster ? `&#x21AA; ${quotedPoster.displayName} (quoted)` : originalPoster.displayName}</strong>
+              <span class="poster-handle">@${quotedPoster ? quotedPoster.handle : originalPoster.handle}</span>
             </div>
           </a>
         </header>
@@ -217,20 +228,23 @@ function renderPostHTML(post: PostData): string {
         <div class="post-content">
           <p>${escapeHTML(content)}</p>
         </div>
-      
-        ${embed ? `
+
+        ${embed?.images ? embed.images.map(renderImage).join('\n') : ''}
+
+
+        ${embed?.uri ? `
         <a href="${embed.uri}" class="post-embed" target="_blank" rel="noopener noreferrer">
           <figure>
-            <img src="${embed.thumb}" alt="${embed.title}" class="embed-thumb" />
+            ${embed.thumb ? `<img src="${embed.thumb}" alt="${embed.title}" class="embed-thumb" />` : ''}
             <figcaption>
               <h4>${embed.title}</h4>
               <p>${embed.description}</p>
             </figcaption>
           </figure>
         </a>` : ''}
-      
+
         <footer class="post-footer">
-          <a href="${originalLink}" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+          <a href="${originalLink}" class="post-link" target="_blank" rel="noopener noreferrer">View on ${url.hostname}</a>
         </footer>
       </article>
       `.trim();

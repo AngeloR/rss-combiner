@@ -1,0 +1,20 @@
+[combinedFeed]
+title = "Xangelo.ca"
+description = "Generated feed for Xangelo.ca"
+link = "https://xangelo.ca"
+id = "https://xangelo.ca"
+copyright = "Xangelo.ca"
+
+
+[[feeds]]
+title = "Medium"
+type = "link"
+profile = "https://medium.com/@xangelo"
+url = "https://medium.com/feed/@xangelo"
+
+[[feeds]]
+title = "Bluesky"
+type = "file"
+profile = "https://bsky.social/profile/xangelo.bsky.social"
+baseFilePath = ""
+filename = "bluesky.xml"

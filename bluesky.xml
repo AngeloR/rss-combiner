@@ -17,11 +17,10 @@ simonwillison.net/2025/Apr/9/m...]]></title>
             <pubDate>Wed, 09 Apr 2025 17:56:51 GMT</pubDate>
             <content:encoded><![CDATA[<article id="post-3lmfkssnkv22g" class="post-entry repost">
         <header class="post-header repost">
-          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
-            <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:lpu5jrmdjg3s3sakmds6vugm/bafkreiabbnylxoaslf354dcuzz5vyleb27fyioqkeg2ck5lsnkmif6miuy@jpeg" alt="xangelo's avatar" class="poster-avatar" />
+          <a href="https://bsky.social/profile/zkat.tech" class="poster-info">
             <div class="poster-name">
-              <strong>xangelo</strong>
-              <span class="poster-handle">@xangelo.bsky.social</span>
+              <strong class="poster-display-name">&#x21AA; Kat Marchán (quoted)</strong>
+              <span class="poster-handle">@zkat.tech</span>
             </div>
           </a>
         </header>
@@ -31,7 +30,10 @@ simonwillison.net/2025/Apr/9/m...]]></title>
 
 simonwillison.net/2025/Apr/9/m...</p>
         </div>
-      
+
+        
+
+
         
         <a href="https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/" class="post-embed" target="_blank" rel="noopener noreferrer">
           <figure>
@@ -42,9 +44,9 @@ simonwillison.net/2025/Apr/9/m...</p>
             </figcaption>
           </figure>
         </a>
-      
+
         <footer class="post-footer">
-          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
       </article>]]></content:encoded>
         </item>
@@ -56,9 +58,8 @@ simonwillison.net/2025/Apr/9/m...</p>
             <content:encoded><![CDATA[<article id="post-3lmfo2k2m4s2v" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
-            <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:lpu5jrmdjg3s3sakmds6vugm/bafkreiabbnylxoaslf354dcuzz5vyleb27fyioqkeg2ck5lsnkmif6miuy@jpeg" alt="xangelo's avatar" class="poster-avatar" />
             <div class="poster-name">
-              <strong>xangelo</strong>
+              <strong class="poster-display-name">xangelo</strong>
               <span class="poster-handle">@xangelo.bsky.social</span>
             </div>
           </a>
@@ -67,20 +68,23 @@ simonwillison.net/2025/Apr/9/m...</p>
         <div class="post-content">
           <p>Turns out.. anything is a shell in GitHub Actions? In one example they execute `tcc` :/ Is this some kind of jail-break exploit waiting to happen? yossarian.net/til/post/any...</p>
         </div>
-      
+
+        
+
+
         
         <a href="https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/" class="post-embed" target="_blank" rel="noopener noreferrer">
           <figure>
-            <img src="undefined" alt="TIL: Any program can be a GitHub Actions shell" class="embed-thumb" />
+            
             <figcaption>
               <h4>TIL: Any program can be a GitHub Actions shell</h4>
               <p></p>
             </figcaption>
           </figure>
         </a>
-      
+
         <footer class="post-footer">
-          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
       </article>]]></content:encoded>
         </item>
@@ -92,9 +96,8 @@ simonwillison.net/2025/Apr/9/m...</p>
             <content:encoded><![CDATA[<article id="post-3lmb4nubrx22m" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
-            <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:lpu5jrmdjg3s3sakmds6vugm/bafkreiabbnylxoaslf354dcuzz5vyleb27fyioqkeg2ck5lsnkmif6miuy@jpeg" alt="xangelo's avatar" class="poster-avatar" />
             <div class="poster-name">
-              <strong>xangelo</strong>
+              <strong class="poster-display-name">xangelo</strong>
               <span class="poster-handle">@xangelo.bsky.social</span>
             </div>
           </a>
@@ -103,7 +106,10 @@ simonwillison.net/2025/Apr/9/m...</p>
         <div class="post-content">
           <p>I&#039;m seeing lots of posts about McLaren&#039;s cautious strategy... I wonder if this is as good as it gets for them and they just need to nail the constructors...</p>
         </div>
-      
+
+        
+
+
         
         <a href="https://www.planetf1.com/features/japanese-grand-prix-2025-conclusions" class="post-embed" target="_blank" rel="noopener noreferrer">
           <figure>
@@ -114,9 +120,9 @@ simonwillison.net/2025/Apr/9/m...</p>
             </figcaption>
           </figure>
         </a>
-      
+
         <footer class="post-footer">
-          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
       </article>]]></content:encoded>
         </item>
@@ -128,9 +134,8 @@ simonwillison.net/2025/Apr/9/m...</p>
             <content:encoded><![CDATA[<article id="post-3lmb4eov7es2m" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
-            <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:lpu5jrmdjg3s3sakmds6vugm/bafkreiabbnylxoaslf354dcuzz5vyleb27fyioqkeg2ck5lsnkmif6miuy@jpeg" alt="xangelo's avatar" class="poster-avatar" />
             <div class="poster-name">
-              <strong>xangelo</strong>
+              <strong class="poster-display-name">xangelo</strong>
               <span class="poster-handle">@xangelo.bsky.social</span>
             </div>
           </a>
@@ -139,20 +144,21 @@ simonwillison.net/2025/Apr/9/m...</p>
         <div class="post-content">
           <p>There something very satisfying about catching @hankgreen.bsky.social throwing shade</p>
         </div>
-      
+
+        <figure>
+        <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lpu5jrmdjg3s3sakmds6vugm/bafkreifntcf4fzi66ejlorwz3zcxrug7ggnb5wwlblffaozbi6kg2ld7hm@jpeg" alt="undefined" class="embed" />
+
+        <figcaption>
+            
+            
+        </figcaption>
+        </figure>
+
+
         
-        <a href="undefined" class="post-embed" target="_blank" rel="noopener noreferrer">
-          <figure>
-            <img src="undefined" alt="undefined" class="embed-thumb" />
-            <figcaption>
-              <h4>undefined</h4>
-              <p>undefined</p>
-            </figcaption>
-          </figure>
-        </a>
-      
+
         <footer class="post-footer">
-          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
       </article>]]></content:encoded>
         </item>
@@ -164,9 +170,8 @@ simonwillison.net/2025/Apr/9/m...</p>
             <content:encoded><![CDATA[<article id="post-3lm5l6aoick2u" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
-            <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:lpu5jrmdjg3s3sakmds6vugm/bafkreiabbnylxoaslf354dcuzz5vyleb27fyioqkeg2ck5lsnkmif6miuy@jpeg" alt="xangelo's avatar" class="poster-avatar" />
             <div class="poster-name">
-              <strong>xangelo</strong>
+              <strong class="poster-display-name">xangelo</strong>
               <span class="poster-handle">@xangelo.bsky.social</span>
             </div>
           </a>
@@ -175,7 +180,10 @@ simonwillison.net/2025/Apr/9/m...</p>
         <div class="post-content">
           <p>An interesting study by WOWA.ca around monetary control in Canada youtu.be/bR0kYvkgRps?...  #canada #finance</p>
         </div>
-      
+
+        
+
+
         
         <a href="https://WOWA.ca" class="post-embed" target="_blank" rel="noopener noreferrer">
           <figure>
@@ -186,9 +194,9 @@ simonwillison.net/2025/Apr/9/m...</p>
             </figcaption>
           </figure>
         </a>
-      
+
         <footer class="post-footer">
-          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
       </article>]]></content:encoded>
         </item>
@@ -199,11 +207,10 @@ simonwillison.net/2025/Apr/9/m...</p>
             <pubDate>Thu, 02 Nov 2023 11:21:09 GMT</pubDate>
             <content:encoded><![CDATA[<article id="post-3kd7aeukgkd2s" class="post-entry repost">
         <header class="post-header repost">
-          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
-            <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:lpu5jrmdjg3s3sakmds6vugm/bafkreiabbnylxoaslf354dcuzz5vyleb27fyioqkeg2ck5lsnkmif6miuy@jpeg" alt="xangelo's avatar" class="poster-avatar" />
+          <a href="https://bsky.social/profile/brainchain.ca" class="poster-info">
             <div class="poster-name">
-              <strong>xangelo</strong>
-              <span class="poster-handle">@xangelo.bsky.social</span>
+              <strong class="poster-display-name">&#x21AA; Kate Armstrong (quoted)</strong>
+              <span class="poster-handle">@brainchain.ca</span>
             </div>
           </a>
         </header>
@@ -211,7 +218,10 @@ simonwillison.net/2025/Apr/9/m...</p>
         <div class="post-content">
           <p>Anyone who’s had to do supply chains time and motion studies 🙋🏻‍♀️can tell you that having a fractured queue line slows down the aggregate overall time for waiting. This is all kinds of stupid. #onpoli</p>
         </div>
-      
+
+        
+
+
         
         <a href="https://www.cp24.com/news/expansion-of-private-clinics-likely-to-increase-wait-times-in-ontario-report-suggests-1.6627850" class="post-embed" target="_blank" rel="noopener noreferrer">
           <figure>
@@ -222,9 +232,9 @@ simonwillison.net/2025/Apr/9/m...</p>
             </figcaption>
           </figure>
         </a>
-      
+
         <footer class="post-footer">
-          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3kd7aeukgkd2s" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
       </article>]]></content:encoded>
         </item>
@@ -236,9 +246,8 @@ simonwillison.net/2025/Apr/9/m...</p>
             <content:encoded><![CDATA[<article id="post-3kdakisyaft2k" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
-            <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:lpu5jrmdjg3s3sakmds6vugm/bafkreiabbnylxoaslf354dcuzz5vyleb27fyioqkeg2ck5lsnkmif6miuy@jpeg" alt="xangelo's avatar" class="poster-avatar" />
             <div class="poster-name">
-              <strong>xangelo</strong>
+              <strong class="poster-display-name">xangelo</strong>
               <span class="poster-handle">@xangelo.bsky.social</span>
             </div>
           </a>
@@ -247,7 +256,10 @@ simonwillison.net/2025/Apr/9/m...</p>
         <div class="post-content">
           <p>In news that surprises no one - the push for private clinics is having a detrimental effect on public health care</p>
         </div>
-      
+
+        
+
+
         
         <a href="https://bit.ly/3sqRgtU" class="post-embed" target="_blank" rel="noopener noreferrer">
           <figure>
@@ -258,9 +270,9 @@ simonwillison.net/2025/Apr/9/m...</p>
             </figcaption>
           </figure>
         </a>
-      
+
         <footer class="post-footer">
-          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k" class="post-link" target="_blank" rel="noopener noreferrer">View original</a>
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3kdakisyaft2k" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
         </footer>
       </article>]]></content:encoded>
         </item>
