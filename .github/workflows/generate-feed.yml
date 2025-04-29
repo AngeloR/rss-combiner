@@ -41,7 +41,8 @@ jobs:
           git config --global user.email "me@xangelo.ca"
           git config --global user.name "angelor"
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -am "Update feed"
+            git add .
+            git commit -m "Update feed"
             git push
           else
             echo "No changes to commit"
