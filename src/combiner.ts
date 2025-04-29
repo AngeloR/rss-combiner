@@ -34,6 +34,7 @@ async function main() {
                 title: item.title ?? config.feeds[index].title,
                 id: item.link,
                 link: item.link,
+                date: new Date(item.pubDate),
                 published: new Date(item.pubDate),
                 content: item.content || item['content:encoded'],
                 author: [{
@@ -54,7 +55,7 @@ async function main() {
         combinedFeed.addItem(item);
     });
 
-    fs.writeFileSync('combined.xml', combinedFeed.rss2());
+    fs.writeFileSync('combined.xml', combinedFeed.atom1());
 }
 
 main().catch(console.error);

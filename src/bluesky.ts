@@ -182,7 +182,7 @@ function generateFeed(posts: PostData[]) {
         });
     });
 
-    return feed.rss2();
+    return feed.atom1();
 }
 
 // Helper to escape HTML special characters
