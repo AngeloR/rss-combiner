@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xangelo.ca</id>
     <title>Xangelo.ca</title>
-    <updated>2025-05-31T14:47:27.814Z</updated>
+    <updated>2025-05-31T15:03:28.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xangelo.ca"/>
     <subtitle>Generated feed for Xangelo.ca</subtitle>
     <rights>Xangelo.ca</rights>
+    <entry>
+        <title type="html"><![CDATA[@gandersocial.bsky.social If likes aren't honks on @gandersocial.bsky.social I feel like they've missed a real opportunity]]></title>
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3lqhz5hbhfc2v</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lqhz5hbhfc2v"/>
+        <updated>2025-05-31T14:59:24.910Z</updated>
+        <content type="html"><![CDATA[<article id="post-3lqhz5hbhfc2v" class="post-entry">
+        <header class="post-header ">
+          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
+            <div class="poster-name">
+              <strong class="poster-display-name">xangelo</strong>
+              <span class="poster-handle">@xangelo.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>@gandersocial.bsky.social If likes aren&#039;t honks on @gandersocial.bsky.social I feel like they&#039;ve missed a real opportunity</p>
+        </div>
+
+        
+
+
+        
+
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3lqhz5hbhfc2v" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
+        </footer>
+      </article>]]></content>
+        <author>
+            <name>Angelo R.</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <published>2025-05-31T14:59:24.910Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turns out.. anything is a shell in GitHub Actions? In one example they execute `tcc` :/ Is this some kind of jail-break exploit waiting to happen? yossarian.net/til/post/any...]]></title>
         <id>https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v</id>
