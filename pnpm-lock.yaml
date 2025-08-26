@@ -274,6 +274,12 @@ packages:
     cpu: [x64]
     os: [linux]
 
+  '@swc/core-win32-arm64-msvc@1.11.21':
+    resolution: {integrity: sha512-DJJe9k6gXR/15ZZVLv1SKhXkFst8lYCeZRNHH99SlBodvu4slhh/MKQ6YCixINRhCwliHrpXPym8/5fOq8b7Ig==}
+    engines: {node: '>=10'}
+    cpu: [arm64]
+    os: [win32]
+
   '@swc/core-win32-ia32-msvc@1.11.21':
     resolution: {integrity: sha512-TqEXuy6wedId7bMwLIr9byds+mKsaXVHctTN88R1UIBPwJA92Pdk0uxDgip0pEFzHB/ugU27g6d8cwUH3h2eIw==}
     engines: {node: '>=10'}
@@ -796,6 +802,9 @@ snapshots:
   '@swc/core-linux-x64-musl@1.11.21':
     optional: true
 
+  '@swc/core-win32-arm64-msvc@1.11.21':
+    optional: true
+
   '@swc/core-win32-ia32-msvc@1.11.21':
     optional: true
 
@@ -814,6 +823,7 @@ snapshots:
       '@swc/core-linux-arm64-musl': 1.11.21
       '@swc/core-linux-x64-gnu': 1.11.21
       '@swc/core-linux-x64-musl': 1.11.21
+      '@swc/core-win32-arm64-msvc': 1.11.21
       '@swc/core-win32-ia32-msvc': 1.11.21
       '@swc/core-win32-x64-msvc': 1.11.21
     optional: true
