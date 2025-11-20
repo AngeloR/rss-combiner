@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xangelo.ca</id>
     <title>Xangelo.ca</title>
-    <updated>2025-11-20T23:04:01.191Z</updated>
+    <updated>2025-11-20T23:22:34.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xangelo.ca"/>
     <subtitle>Generated feed for Xangelo.ca</subtitle>
@@ -119,7 +119,7 @@ simonwillison.net/2025/Apr/9/m...]]></title>
         <header class="post-header repost">
           <a href="https://bsky.social/profile/zkat.tech" class="poster-info">
             <div class="poster-name">
-              <strong class="poster-display-name">&#x21AA; Witch’s Black Kat Marchán 🐈‍⬛🧙🏼 (quoted)</strong>
+              <strong class="poster-display-name">&#x21AA; Kat Marchán 🐈 (quoted)</strong>
               <span class="poster-handle">@zkat.tech</span>
             </div>
           </a>
