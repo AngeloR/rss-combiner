@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xangelo.ca</id>
     <title>Xangelo.ca</title>
-    <updated>2026-02-28T07:39:17.605Z</updated>
+    <updated>2026-02-28T07:49:50.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xangelo.ca"/>
     <subtitle>Generated feed for Xangelo.ca</subtitle>
@@ -40,6 +40,44 @@
             <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
         </author>
         <published>2026-02-28T07:00:51.595Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great. Wonderful. Great. 
+
+…fuck.]]></title>
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3mfvnozgib22e</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3mfvnozgib22e"/>
+        <updated>2026-02-28T07:00:50.592Z</updated>
+        <content type="html"><![CDATA[<article id="post-3mfvnozgib22e" class="post-entry repost">
+        <header class="post-header repost">
+          <a href="https://bsky.social/profile/punkrockscience.bsky.social" class="poster-info">
+            <div class="poster-name">
+              <strong class="poster-display-name">&#x21AA; Dr. Stephanie (quoted)</strong>
+              <span class="poster-handle">@punkrockscience.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>Great. Wonderful. Great. 
+
+…fuck.</p>
+        </div>
+
+        
+
+
+        
+
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3mfvnozgib22e" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
+        </footer>
+      </article>]]></content>
+        <author>
+            <name>Angelo R.</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <published>2026-02-28T07:00:50.592Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Fallacies of Management — The Network is Reliable]]></title>
