@@ -2,11 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xangelo.ca</id>
     <title>Xangelo.ca</title>
-    <updated>2026-02-28T06:48:57.269Z</updated>
+    <updated>2026-02-28T07:09:00.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xangelo.ca"/>
     <subtitle>Generated feed for Xangelo.ca</subtitle>
     <rights>Xangelo.ca</rights>
+    <entry>
+        <title type="html"><![CDATA[After all this talk about capitalism and free markets.. the minute a company doesn't fall in line they're a "supply chain risk" 🤔]]></title>
+        <id>https://bsky.app/profile/xangelo.bsky.social/post/3mfvnp2hjus26</id>
+        <link href="https://bsky.app/profile/xangelo.bsky.social/post/3mfvnp2hjus26"/>
+        <updated>2026-02-28T07:00:51.595Z</updated>
+        <content type="html"><![CDATA[<article id="post-3mfvnp2hjus26" class="post-entry">
+        <header class="post-header ">
+          <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
+            <div class="poster-name">
+              <strong class="poster-display-name">xangelo</strong>
+              <span class="poster-handle">@xangelo.bsky.social</span>
+            </div>
+          </a>
+        </header>
+      
+        <div class="post-content">
+          <p>After all this talk about capitalism and free markets.. the minute a company doesn&#039;t fall in line they&#039;re a &quot;supply chain risk&quot; 🤔</p>
+        </div>
+
+        
+
+
+        
+
+        <footer class="post-footer">
+          <a href="https://bsky.app/profile/xangelo.bsky.social/post/3mfvnp2hjus26" class="post-link" target="_blank" rel="noopener noreferrer">View on bsky.app</a>
+        </footer>
+      </article>]]></content>
+        <author>
+            <name>Angelo R.</name>
+            <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
+        </author>
+        <published>2026-02-28T07:00:51.595Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Fallacies of Management — The Network is Reliable]]></title>
         <id>https://xangelo.medium.com/the-fallacies-of-management-the-network-is-reliable-89cd2c958f6c?source=rss-d5a790d38792------2</id>
