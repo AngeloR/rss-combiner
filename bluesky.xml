@@ -145,7 +145,7 @@ simonwillison.net/2025/Apr/9/m...</p>
         
         <a href="https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/" class="post-embed" target="_blank" rel="noopener noreferrer">
           <figure>
-            <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ujospssfohkwtnocit43op2r/bafkreiakqri65dnfgx3vdaajkt3kym363ww6ig5et7m4zrakfwjv23vvcq@jpeg" alt="Model Context Protocol has prompt injection security problems" class="embed-thumb" />
+            <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ujospssfohkwtnocit43op2r/bafkreiakqri65dnfgx3vdaajkt3kym363ww6ig5et7m4zrakfwjv23vvcq" alt="Model Context Protocol has prompt injection security problems" class="embed-thumb" />
             <figcaption>
               <h4>Model Context Protocol has prompt injection security problems</h4>
               <p>As more people start hacking around with implementations of MCP (the Model Context Protocol, a new standard for making tools available to LLM-powered systems) the security implications of tools built ...</p>
