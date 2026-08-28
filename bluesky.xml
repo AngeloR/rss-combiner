@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bsky.social/profile/undefined</id>
     <title>Xangelo's Bluesky Posts</title>
-    <updated>2026-02-28T07:00:50.653Z</updated>
+    <updated>2026-02-28T07:00:50.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <subtitle>Xangelo's Bluesky Posts</subtitle>
     <rights>I wrote this stuff, so just like.. don't steal it or anything.</rights>
@@ -12,7 +12,7 @@
 …fuck.]]></title>
         <id>https://bsky.app/profile/xangelo.bsky.social/post/3mfvnozgib22e</id>
         <link href="https://bsky.app/profile/xangelo.bsky.social/post/3mfvnozgib22e"/>
-        <updated>2026-02-28T07:00:50.653Z</updated>
+        <updated>2026-02-28T07:00:50.592Z</updated>
         <content type="html"><![CDATA[<article id="post-3mfvnozgib22e" class="post-entry repost">
         <header class="post-header repost">
           <a href="https://bsky.social/profile/punkrockscience.bsky.social" class="poster-info">
@@ -46,13 +46,13 @@
             <name>Dr. Stephanie</name>
             <uri>https://bsky.social/profile/punkrockscience.bsky.social</uri>
         </contributor>
-        <published>2026-02-28T07:00:50.653Z</published>
+        <published>2026-02-28T07:00:50.592Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[After all this talk about capitalism and free markets.. the minute a company doesn't fall in line they're a "supply chain risk" 🤔]]></title>
         <id>https://bsky.app/profile/xangelo.bsky.social/post/3mfvnp2hjus26</id>
         <link href="https://bsky.app/profile/xangelo.bsky.social/post/3mfvnp2hjus26"/>
-        <updated>2026-02-28T07:00:51.656Z</updated>
+        <updated>2026-02-28T07:00:51.595Z</updated>
         <content type="html"><![CDATA[<article id="post-3mfvnp2hjus26" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
@@ -80,13 +80,13 @@
             <name>xangelo</name>
             <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
         </author>
-        <published>2026-02-28T07:00:51.656Z</published>
+        <published>2026-02-28T07:00:51.595Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[@gandersocial.bsky.social If likes aren't honks on @gandersocial.bsky.social I feel like they've missed a real opportunity]]></title>
         <id>https://bsky.app/profile/xangelo.bsky.social/post/3lqhz5hbhfc2v</id>
         <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lqhz5hbhfc2v"/>
-        <updated>2025-05-31T14:59:24.945Z</updated>
+        <updated>2025-05-31T14:59:24.910Z</updated>
         <content type="html"><![CDATA[<article id="post-3lqhz5hbhfc2v" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
@@ -114,7 +114,7 @@
             <name>xangelo</name>
             <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
         </author>
-        <published>2025-05-31T14:59:24.945Z</published>
+        <published>2025-05-31T14:59:24.910Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[😗
@@ -122,7 +122,7 @@
 simonwillison.net/2025/Apr/9/m...]]></title>
         <id>https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g</id>
         <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfkssnkv22g"/>
-        <updated>2025-04-09T17:56:51.991Z</updated>
+        <updated>2025-04-09T17:56:51.966Z</updated>
         <content type="html"><![CDATA[<article id="post-3lmfkssnkv22g" class="post-entry repost">
         <header class="post-header repost">
           <a href="https://bsky.social/profile/zkat.tech" class="poster-info">
@@ -165,13 +165,13 @@ simonwillison.net/2025/Apr/9/m...</p>
             <name>Katerina Marchán 🐈</name>
             <uri>https://bsky.social/profile/zkat.tech</uri>
         </contributor>
-        <published>2025-04-09T17:56:51.991Z</published>
+        <published>2025-04-09T17:56:51.966Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Turns out.. anything is a shell in GitHub Actions? In one example they execute `tcc` :/ Is this some kind of jail-break exploit waiting to happen? yossarian.net/til/post/any...]]></title>
         <id>https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v</id>
         <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lmfo2k2m4s2v"/>
-        <updated>2025-04-09T18:54:50.793Z</updated>
+        <updated>2025-04-09T18:54:50.765Z</updated>
         <content type="html"><![CDATA[<article id="post-3lmfo2k2m4s2v" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
@@ -208,13 +208,13 @@ simonwillison.net/2025/Apr/9/m...</p>
             <name>xangelo</name>
             <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
         </author>
-        <published>2025-04-09T18:54:50.793Z</published>
+        <published>2025-04-09T18:54:50.765Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm seeing lots of posts about McLaren's cautious strategy... I wonder if this is as good as it gets for them and they just need to nail the constructors...]]></title>
         <id>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m</id>
         <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4nubrx22m"/>
-        <updated>2025-04-07T23:32:50.405Z</updated>
+        <updated>2025-04-07T23:32:50.390Z</updated>
         <content type="html"><![CDATA[<article id="post-3lmb4nubrx22m" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
@@ -251,13 +251,13 @@ simonwillison.net/2025/Apr/9/m...</p>
             <name>xangelo</name>
             <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
         </author>
-        <published>2025-04-07T23:32:50.405Z</published>
+        <published>2025-04-07T23:32:50.390Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[There something very satisfying about catching @hankgreen.bsky.social throwing shade]]></title>
         <id>https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m</id>
         <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lmb4eov7es2m"/>
-        <updated>2025-04-07T23:27:44.813Z</updated>
+        <updated>2025-04-07T23:27:44.782Z</updated>
         <content type="html"><![CDATA[<article id="post-3lmb4eov7es2m" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
@@ -292,13 +292,13 @@ simonwillison.net/2025/Apr/9/m...</p>
             <name>xangelo</name>
             <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
         </author>
-        <published>2025-04-07T23:27:44.813Z</published>
+        <published>2025-04-07T23:27:44.782Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[An interesting study by WOWA.ca around monetary control in Canada youtu.be/bR0kYvkgRps?...  #canada #finance]]></title>
         <id>https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u</id>
         <link href="https://bsky.app/profile/xangelo.bsky.social/post/3lm5l6aoick2u"/>
-        <updated>2025-04-06T13:41:56.403Z</updated>
+        <updated>2025-04-06T13:41:56.374Z</updated>
         <content type="html"><![CDATA[<article id="post-3lm5l6aoick2u" class="post-entry">
         <header class="post-header ">
           <a href="https://bsky.social/profile/xangelo.bsky.social" class="poster-info">
@@ -335,7 +335,7 @@ simonwillison.net/2025/Apr/9/m...</p>
             <name>xangelo</name>
             <uri>https://bsky.social/profile/xangelo.bsky.social</uri>
         </author>
-        <published>2025-04-06T13:41:56.403Z</published>
+        <published>2025-04-06T13:41:56.374Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Anyone who’s had to do supply chains time and motion studies 🙋🏻‍♀️can tell you that having a fractured queue line slows down the aggregate overall time for waiting. This is all kinds of stupid. #onpoli]]></title>
